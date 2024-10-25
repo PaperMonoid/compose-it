@@ -1,2 +1,2 @@
 # compose-it
-A small library for functional programming in Scheme R7RS.
+A small library for functional programming in Scheme R6RS.
